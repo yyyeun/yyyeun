@@ -42,7 +42,7 @@ I’m actively looking for opportunities to apply my skills, so feel free to rea
   <img src="https://img.shields.io/badge/GitHub-181717?style=platic&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=platic&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=platic&logo=notion&logoColor=white">
-  <br><br><br>
+  <br><br>
 </div>
 
 <div align=center><h2>🦾 Stats</h2></div>
